@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Sébastien BECKER</title>
+    <link>https://sbecker59.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on Sébastien BECKER</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sbecker59.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>sbecker59.github.io</title>
+      <link>https://sbecker59.github.io/projects/sbecker59/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sbecker59.github.io/projects/sbecker59/</guid>
+      <description>This website was built using Hugo. Hugo is a very fast and easy-to-use static site generator written in Go. Deployment is automated from repo changes and is and hosted on Netilify
+It uses a slightly mofified version of the theme Hugo-Coder, a minimalist hugo template.
+Links  </description>
+    </item>
+    
+  </channel>
+</rss>

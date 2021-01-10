@@ -6,9 +6,64 @@
     <description>Recent content in Tags on Sébastien BECKER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sbecker59.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>hugo</title>
+      <link>https://sbecker59.github.io/tags/hugo/</link>
+      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sbecker59.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://sbecker59.github.io/tags/go/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sbecker59.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>provider</title>
+      <link>https://sbecker59.github.io/tags/provider/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sbecker59.github.io/tags/provider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statuspage</title>
+      <link>https://sbecker59.github.io/tags/statuspage/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sbecker59.github.io/tags/statuspage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terraform</title>
+      <link>https://sbecker59.github.io/tags/terraform/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sbecker59.github.io/tags/terraform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>api</title>
+      <link>https://sbecker59.github.io/tags/api/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sbecker59.github.io/tags/api/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

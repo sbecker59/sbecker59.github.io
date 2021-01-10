@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sébastien BECKER</title>
-    <link>https://sbecker59.github.io/</link>
-    <description>Recent content on Sébastien BECKER</description>
+    <title>go on Sébastien BECKER</title>
+    <link>https://sbecker59.github.io/tags/go/</link>
+    <description>Recent content in go on Sébastien BECKER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sbecker59.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sbecker59.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>sbecker59.github.io</title>
-      <link>https://sbecker59.github.io/projects/sbecker59/</link>
-      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://sbecker59.github.io/projects/sbecker59/</guid>
-      <description>This website was built using Hugo. Hugo is a very fast and easy-to-use static site generator written in Go. Deployment is automated from repo changes and is and hosted on Netilify
-It uses a slightly mofified version of the theme Hugo-Coder, a minimalist hugo template.
-Links  </description>
-    </item>
     
     <item>
       <title>Terraform provider Statuspage</title>
