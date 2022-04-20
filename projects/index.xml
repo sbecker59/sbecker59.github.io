@@ -6,11 +6,7 @@
     <description>Recent content in Projects on Sébastien BECKER</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://sbecker59.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://sbecker59.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>sbecker59.github.io</title>
       <link>https://sbecker59.github.io/projects/sbecker59/</link>
@@ -19,7 +15,7 @@
       <guid>https://sbecker59.github.io/projects/sbecker59/</guid>
       <description>This website was built using Hugo. Hugo is a very fast and easy-to-use static site generator written in Go. Deployment is automated from repo changes and is and hosted on Netilify
 It uses a slightly mofified version of the theme Hugo-Coder, a minimalist hugo template.
-Links  </description>
+Links     </description>
     </item>
     
     <item>
@@ -28,7 +24,7 @@ Links  </description>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sbecker59.github.io/projects/terraformproviderstatuspage/</guid>
-      <description>Links 
+      <description>Links    
   </description>
     </item>
     
@@ -38,7 +34,7 @@ Links  </description>
       <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sbecker59.github.io/projects/statuspageapiclientgo/</guid>
-      <description>Links   </description>
+      <description>Links      </description>
     </item>
     
   </channel>
